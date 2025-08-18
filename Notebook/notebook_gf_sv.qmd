@@ -1,7 +1,7 @@
 ---
 title: "taller_gf_sv"
 author: "Matías Pozo"
-format: html
+format: revealjs
 ---
 
 Iniciando desde ssh
