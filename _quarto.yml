@@ -1,0 +1,11 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Presentation Title"
+  site-url: "https://matiaspozod.github.io/taller_graficos_surv_interp/"
+  
+format:
+  html:
+    theme: default
