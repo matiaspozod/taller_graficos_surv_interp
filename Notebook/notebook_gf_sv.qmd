@@ -1,7 +1,15 @@
 ---
-title: "taller_gf_sv"
+title: "Taller: Creación de curvas de supervivencias en R"
 author: "Matías Pozo"
 format: revealjs
 ---
 
-Iniciando desde ssh
+# Contexto
+
+## Datos de supervivencia (Tiempo hasta el evento)
+
+
+## Censura
+
+
+fdfdfd
