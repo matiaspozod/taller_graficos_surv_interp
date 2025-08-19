@@ -9,6 +9,7 @@ format:
     slide-number: true
     chalkboard: 
       buttons: true
+    theme: default
 ---
 
 # Contexto
