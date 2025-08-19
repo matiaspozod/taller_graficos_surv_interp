@@ -1,12 +1,20 @@
 ---
-title: "Taller: Creación de curvas de supervivencias en R"
-author: "Matías Pozo"
-format: revealjs
+title: "Taller de construcción de gráficos 'complejos' en R"
+subtitle: "<h2 style='color:#cdcdcd'>Curvas de supervivencias, interpolación</h2>"
+author: Matías Agustín Pozo Díaz
+date: "Septiembre 2025"
+
+format: 
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: true
 ---
 
 # Contexto
 
 ## Datos de supervivencia (Tiempo hasta el evento)
+
 
 
 ## Censura
